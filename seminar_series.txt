@@ -1,0 +1,23 @@
+Seminar Series Ideas
+
+Title:      LUG Web Technology Series
+Dates:      Oct-Nov (~1 month duration)
+Frequency:  Once a week.
+
+
+
+
+Potential Topic Subjects:
+  -CSS
+  -Javascript
+  -MySQL
+  -PHP
+  -Perl
+  -Git
+  -Public-key cryptography
+  -Apache
+  -FTP
+  -TCP/IP Fundamentals 
+
+  
+  
