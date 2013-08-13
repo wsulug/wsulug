@@ -1,4 +1,5 @@
 Meeting Topic Ideas
+===================
 
 * WSU Computing Grid
 * Intro to Version Control
