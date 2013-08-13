@@ -7,3 +7,5 @@ Meeting Topic Ideas
 * OpenPGP encryption
 * Using Screen and/or tmux
 * Intro to SELinux
+* INtroduction to Apache (config, admin, etc)
+* Linux Networking (more than just connecting with DHCP)
