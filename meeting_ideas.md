@@ -7,5 +7,6 @@ Meeting Topic Ideas
 * OpenPGP encryption
 * Using Screen and/or tmux
 * Intro to SELinux
-* INtroduction to Apache (config, admin, etc)
+* Introduction to Apache (config, admin, etc)
 * Linux Networking (more than just connecting with DHCP)
+* Open Source for Students (i.e. how to do typical student stuff in Linux, or with Free Software)
