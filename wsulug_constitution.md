@@ -2,6 +2,7 @@ WSULUG Constitution
 ===================
 
 Wayne State University Linux User Group
+
 September 2011
 
 
@@ -93,7 +94,7 @@ until an election is held during the next academic year.
 
 ### Replacing Officers
 Any officer or member that fails to uphold his or her post may be
-removed from office by a vote or at least 67\% by a quorum. Any
+removed from office by a vote or at least 67% by a quorum. Any
 full member may propose a recall, during a regularly scheduled meeting,
 or a special meeting called for the purpose of recalling an officer. 
 If the proposal is seconded, then a recall election will be held.
@@ -112,8 +113,8 @@ Meetings
 --------
 
 ### Quorum
-A quorum shall consist of at least 33\% of the group members, including
-at least 40\% of the officers.  At least one of the officers present must
+A quorum shall consist of at least 33% of the group members, including
+at least 40% of the officers.  At least one of the officers present must
 be the President or Vice President, provided those positions are not vacant.
 
 ### Method of Conducting
@@ -121,7 +122,7 @@ Meeting shall be run according to the Democratic Rules of Order.
 
 ### Special Meetings
 Any member may call for an emergency meeting or special event through a
-request on the group's mailing list.  If 33\% of the group agree, with
+request on the group's mailing list.  If 33% of the group agree, with
 e-mailed replies to the list, then the meeting or event will be held.
 The Secretary shall be responsible for informing membership of emergency
 or special meetings. Members will be informed of emergency meeting
