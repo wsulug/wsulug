@@ -1,0 +1,151 @@
+WSULUG Constitution
+===================
+
+Wayne State University Linux User Group
+September 2011
+
+
+Goals and Purposes
+------------------
+The purpose of the Wayne State University Linux User Group is to support
+and promote the use of Linux, UNIX and other Open Source technologies at
+Wayne State University and the surrounding community.
+
+* The group will hold regular installfests, installing Linux for any
+  person who chooses to use Linux.
+* The group will hold technical presentations, to teach members about
+  Linux and software running on Linux.  The presenters will be WSULUG
+  members, or guest speakers.  These presentations will be open to the
+  public. Membership is not a requisite to attend.
+* The group will hold informal discussions to discuss Linux and Open
+  Source, and to assist other members who may have problems or questions.
+* The group will maintain a web site with resources to aid those
+  interested in Linux, and information regarding WSULUG and meetings.
+* The group will maintain a mailing list, where members can hold
+  discussions, request help, discuss WSULUG business, or anything else
+  that may be related to the Linux and Open Source.
+
+Requirements for Membership
+---------------------------
+Full membership shall be open to all registered students of Wayne State
+University, who are interested in Linux and Open Source.  Wayne State
+University faculty and staff, and people in the surrounding community
+that are not Wayne State University students, may be affiliate members.
+There shall be no membership fee.
+
+Officers
+--------
+### List of Officers
+#### President
+  This individual is the official liaison to the University, and is
+  responsible for the group, its activities, presiding over meetings,
+  and the delegation of tasks to be carried out on behalf of the group.
+#### Vice President
+  The Vice President shall assist the president with his/her duties, and
+  preside over the organization during the president's absence.
+#### Secretary
+  The Secretary shall record, keep, and make available copies of the
+  meeting minutes, and dispatch correspondence as directed by the
+  president.
+#### Treasurer
+  The Treasurer shall receive, dispatch, and keep accurate records of
+  all financial matters regarding the Linux User Group.
+#### Webmaster
+  The Webmaster shall maintain the group web site and mailing list. All
+  other officers may make modifications, to the web site and mailing list,
+  if necessary.
+#### Other Officers
+  Addition officers may be created to service the organization. The duties
+  and titles of these offices will be created and establishment in the
+  organization bylaws.
+
+### Eligibility
+Any full member, who has attended at least 33\% of all meetings during
+the current academic year, may be nominated for an office.
+
+### Nominations and Elections
+Any full member may nominate any other member, or themselves to be
+added to the ballot.  If the nomination is seconded, and the nominee
+approves, then the individual shall be added to the ballot. Nominees
+will be given a maximum of 5 minutes to present a speech to the general
+membership explaining their reasons behind running for office,
+qualifications, goals, and all other applicable information. When all
+nominees have completed their speeches, any other member may voice
+his/her support for a particular candidate with a maximum of 2 minutes
+to present his/her speech.  At least one week shall pass before a vote
+is taken on the officers. The election of officers shall be done through
+anonymous paper ballots, during a regularly scheduled meeting, or a
+special meeting called for the purpose of electing officers.  Any full
+member, including nominees, who have attended at least 33\% of meetings
+prior to the election day may vote. The nominees receiving the greatest
+number of votes will immediately take the office. In the case of a tie,
+the quorum of the membership will vote again, taking only those candidates
+involved in the tie into consideration.
+
+If the group is ever without a president for any reason, the highest
+ranking officer will act as the president until an election is held
+for a new president.The order of succession will be Vice President,
+Secretary, Treasurer, Webmaster. Officers will be nominated at the
+third group meeting, after the beginning of the Fall semester. At
+least one week will pass after the nominees are selected, for the
+election to take place. Officers will hold their respective offices
+until an election is held during the next academic year.
+
+### Replacing Officers
+Any officer or member that fails to uphold his or her post may be
+removed from office by a vote or at least 67\% by a quorum. Any
+full member may propose a recall, during a regularly scheduled meeting,
+or a special meeting called for the purpose of recalling an officer. 
+If the proposal is seconded, then a recall election will be held.
+
+Any individual who wishes to speak for or against the recall shall be
+given the opportunity to do so at this time. At least one week shall
+pass before a recall vote is taken.
+
+If an officer is recalled, steps down, or is unable to complete his/her
+term in office for any other reason, then the group must start the
+process or electing a new officer at the next group meeting.This will
+be done according to the rules of electing a new officer.
+
+
+Meetings
+--------
+
+### Quorum
+A quorum shall consist of at least 33\% of the group members, including
+at least 40\% of the officers.  At least one of the officers present must
+be the President or Vice President, provided those positions are not vacant.
+
+### Method of Conducting
+Meeting shall be run according to the Democratic Rules of Order.
+
+### Special Meetings
+Any member may call for an emergency meeting or special event through a
+request on the group's mailing list.  If 33\% of the group agree, with
+e-mailed replies to the list, then the meeting or event will be held.
+The Secretary shall be responsible for informing membership of emergency
+or special meetings. Members will be informed of emergency meeting
+through both, the WSULUG web site and the mailing list.
+
+### Day and Time
+The elected officers shall decide the time, date, and location of
+meetings. This information will be distributed by e-mail and posted
+to the web site. The decision to hold a special meeting may be made
+by the elected officers when necessary. Meetings may consist of
+virtual meetings or real meetings. Meetings may be cancelled or
+rescheduled if the elected officers agree that a meeting may
+result in undue academic stress upon the group members.
+
+Process of Amending Constitution
+--------------------------------
+Any full member may propose an amendment to the constitution,
+during a regularly scheduled meeting, or a special meeting called
+for the purpose of amending the constitution. If the amendment is
+seconded, then the amendment shall go to a vote. Any individual who
+wishes to speak for or against the amendment shall be given the
+opportunity to do so at this time. The officers will decide the
+amount of time given to speakers based on the amount of time available.
+This time will be no less than 2 minutes, and no greater than 5 minutes.
+At least one week shall pass before a vote is taken on the amendment.
+If at least 67\% of the full membership in the quorum vote to support
+the amendment, this constitution shall be amended.
