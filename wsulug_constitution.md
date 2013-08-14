@@ -61,7 +61,7 @@ Officers
   organization bylaws.
 
 ### Eligibility
-Any full member, who has attended at least 33\% of all meetings during
+Any full member, who has attended at least 33% of all meetings during
 the current academic year, may be nominated for an office.
 
 ### Nominations and Elections
