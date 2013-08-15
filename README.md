@@ -1,13 +1,6 @@
 WSULUG
 ======
 
-This Repository
----------------
-
-This is just a general collection of documents related to the LUG - 
-the consitution, meeting ideas, things like that.
-
-
 About the Wayne State University Linux Users Group
 --------------------------------------------------
 
@@ -22,3 +15,12 @@ Linux and Unix operating systems, and other related things.
 
 Using Linux as your primary operating system is not required to be
 involved, but we will talk behind your back if you don't. A lot.
+
+
+This Repository
+---------------
+
+This is just a general collection of documents related to the LUG - 
+the consitution, meeting ideas, things like that.
+
+
